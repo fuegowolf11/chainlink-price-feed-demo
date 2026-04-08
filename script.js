@@ -2,7 +2,7 @@ const coins = [
   "bitcoin",
   "ethereum",
   "solana",
-  "chainlink",     // ← Added Chainlink (LINK)
+  "chainlink",     // LINK
   "ripple",        // XRP
   "zcash",
   "cardano",
@@ -15,7 +15,7 @@ const coinNames = {
   "bitcoin": "Bitcoin (BTC)",
   "ethereum": "Ethereum (ETH)",
   "solana": "Solana (SOL)",
-  "chainlink": "Chainlink (LINK)",   // ← Added
+  "chainlink": "Chainlink (LINK)",   
   "ripple": "XRP",
   "zcash": "Zcash (ZEC)",
   "cardano": "Cardano (ADA)",
