@@ -1,19 +1,25 @@
 # 🔗 Chainlink Oracle Price Feed Dashboard
 
-A clean, responsive demo that simulates decentralized price oracles.
+A responsive demo that simulates real-time decentralized price oracles.
 
 **Live Demo:** [https://fuegowolf11.github.io/chainlink-price-feed-demo/](https://fuegowolf11.github.io/chainlink-price-feed-demo/)
 
 ### Features
-- Real-time prices for 9 major cryptocurrencies (BTC, ETH, SOL, XRP, ZEC, ADA, SUI, AVAX, DOGE)
-- “Simulate Oracle Update” button (mimics Chainlink Data Feeds refreshing)
-- Responsive design
+- Live prices for 10 major cryptocurrencies (BTC, ETH, SOL, LINK, XRP, ZEC, ADA, SUI, AVAX, DOGE)
+- “Simulate Oracle Update” button (mimics how Chainlink Data Feeds refresh)
+- Clean, modern dark theme with responsive grid
 
 ### Tech Stack
 - HTML5, CSS3 (Flexbox + Grid), Vanilla JavaScript
-- CoinGecko API (for demo purposes)
+- CoinGecko API (demo only)
 
-### Why This Matters for Chainlink
-In a real-world application this dashboard would pull prices directly from **Chainlink Data Feeds** instead of a centralized API. This project helped me deeply understand the importance of decentralized, tamper-proof oracles.
+### Why This Project Matters
+This dashboard helped me deeply understand the value of **decentralized oracles**. In a real Chainlink-powered application, prices would come directly from Chainlink Data Feeds instead of a centralized API — ensuring security, reliability, and tamper-proof data for smart contracts.
 
-Built while progressing through freeCodeCamp’s Full Stack Developer curriculum.
+Built while progressing through freeCodeCamp’s Full Stack Developer curriculum and actively exploring Web3 technologies.
+
+---
+
+**Other projects**  
+- [Real-Time Crypto Price Dashboard](https://github.com/fuegowolf11/crypto-price-dashboard)  
+- [Fitness Landing Page](https://fuegowolf11.github.io/fitness-landing-page/)
